@@ -570,7 +570,7 @@
     "Gadget2": "DEPLOYABLE SHIELD"
   },
   {
-    "Organization": "REU",
+    "Organization": "GHOSEYES",
     "Name": "IANA",
     "Role": "ATTACKER",
     "Armor": 1,
@@ -585,7 +585,7 @@
     "Gadget2": "SMOKE GRENADE"
   },
   {
-    "Organization": "UNAFFILIATED",
+    "Organization": "REDHAMMER",
     "Name": "ORYX",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -600,7 +600,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
-    "Organization": "FBI SWAT",
+    "Organization": "REDHAMMER",
     "Name": "RAM",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -615,7 +615,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
-    "Organization": "GIGN",
+    "Organization": "VIPERSTRIKE",
     "Name": "BRAVA",
     "Role": "ATTACKER",
     "Armor": 1,
@@ -630,7 +630,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
-    "Organization": "NORWAY",
+    "Organization": "NIGHTHAVEN",
     "Name": "GRIM",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -645,7 +645,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "GSG 9",
+    "Organization": "WOLFGUARD",
     "Name": "SENS",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -660,7 +660,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "POLAND",
+    "Organization": "NIGHTHAVEN",
     "Name": "OSA",
     "Role": "DEFENDER",
     "Armor": 3,
@@ -675,7 +675,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
-    "Organization": "GIGN",
+    "Organization": "GHOSTEYES",
     "Name": "FLORES",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -690,7 +690,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
-    "Organization": "FBI SWAT",
+    "Organization": "GHOSTEYES",
     "Name": "ZERO",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -705,22 +705,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
-    "Organization": "SAS",
-    "Name": "ACE",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "AK-12",
-    "Primary2": "M1014",
-    "Primary3": null,
-    "Secondary1": "M1911",
-    "Secondary2": "SIG P229",
-    "Gadget1": "FLASHBANG",
-    "Gadget2": "BREACH CHARGE"
-  },
-  {
-    "Organization": "GSG 9",
+    "Organization": "GHOSTEYES",
     "Name": "ZOFIA",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -735,7 +720,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "CHINA",
+    "Organization": "WOLFGUARD",
     "Name": "YING",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -750,7 +735,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "GIGN",
+    "Organization": "VIPERSTRIKE",
     "Name": "JACKAL",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -765,7 +750,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "SAD",
+    "Organization": "VIPERSTRIKE",
     "Name": "HIBANA",
     "Role": "ATTACKER",
     "Armor": 2,
@@ -778,62 +763,6 @@
     "Secondary2": "1911 TACOPS",
     "Gadget1": "FLASHBANG",
     "Gadget2": "BREACH CHARGE"
-  },
-  {
-    "Organization": "NIGHTHAVEN",
-    "Name": "KALI",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "CSRX 300",
-    "Primary2": "M1014",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "BREACH CHARGE",
-    "Gadget2": "SMOKE GRENADE"
-  },
-  {
-    "Organization": "NIGHTHAVEN",
-    "Name": "OSA",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "556XI",
-    "Primary2": "OTS-03",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "SHIELD",
-    "Gadget2": "CLAYMORE"
-  },
-  {
-    "Organization": "NIGHTHAVEN",
-    "Name": "WAMAI",
-    "Role": "DEFENDER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "AUG A3",
-    "Primary2": "MP5K",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "MAGNET",
-    "Gadget2": "BARBED WIRE"
-  },
-  {
-    "Organization": "REDHAMMER",
-    "Name": "ACE",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "AK-12",
-    "Primary2": "M1014",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "HARD BREACH CHARGE",
-    "Gadget2": "CLAYMORE"
   },
   {
     "Organization": "REDHAMMER",
@@ -876,62 +805,6 @@
     "Secondary2": "M1911",
     "Gadget1": "BARBED WIRE",
     "Gadget2": "BULLETPROOF CAMERA"
-  },
-  {
-    "Organization": "GHOSTEYES",
-    "Name": "GLAZ",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "OG-14",
-    "Primary2": "M1014",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "SMOKE GRENADE",
-    "Gadget2": "CLAYMORE"
-  },
-  {
-    "Organization": "GHOSTEYES",
-    "Name": "VALKYRIE",
-    "Role": "DEFENDER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "MP5",
-    "Primary2": "SPAS-12",
-    "Secondary1": "USP40",
-    "Secondary2": "BAILIFF 410",
-    "Gadget1": "BULLETPROOF CAMERA",
-    "Gadget2": "CAMERA"
-  },
-  {
-    "Organization": "VIPERSTRIKE",
-    "Name": "HIBANA",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "TYPE-89",
-    "Primary2": "M1014",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "HARD BREACH CHARGE",
-    "Gadget2": "CLAYMORE"
-  },
-  {
-    "Organization": "VIPERSTRIKE",
-    "Name": "THATCHER",
-    "Role": "ATTACKER",
-    "Armor": 2,
-    "Speed": 2,
-    "Difficulty": 2,
-    "Primary1": "AR33",
-    "Primary2": "M1014",
-    "Secondary1": "P229",
-    "Secondary2": "M1911",
-    "Gadget1": "STUN GRENADE",
-    "Gadget2": "CLAYMORE"
   },
   {
     "Organization": "WOLFGUARD",
@@ -977,7 +850,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "GSG9",
+    "Organization": "WOLFGUARD",
     "Name": "MELUSI",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -992,7 +865,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
-    "Organization": "GSG9",
+    "Organization": "NIGHTHAVEN",
     "Name": "ELA",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -1007,7 +880,7 @@
     "Gadget2": "BARRICADE"
   },
   {
-    "Organization": "CHINA",
+    "Organization": "GHOSTEYES",
     "Name": "LESION",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -1022,7 +895,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
-    "Organization": "GSG9",
+    "Organization": "VIPERSTRIKE",
     "Name": "MIRA",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -1037,7 +910,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
-    "Organization": "SAD",
+    "Organization": "VIPERSTRIKE",
     "Name": "ECHO",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -1052,22 +925,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
-    "Organization": "BOPE",
-    "Name": "CAVEIRA",
-    "Role": "DEFENDER",
-    "Armor": 3,
-    "Speed": 1,
-    "Difficulty": 3,
-    "Primary1": "M1014",
-    "Primary2": "Uzi Pro",
-    "Primary3": null,
-    "Secondary1": "P9",
-    "Secondary2": "M1911",
-    "Gadget1": "BARBED WIRE",
-    "Gadget2": "BULLETPROOF CAMERA"
-  },
-  {
-    "Organization": "FBI SWAT",
+    "Organization": "GHOSTEYES",
     "Name": "VALKYRIE",
     "Role": "DEFENDER",
     "Armor": 2,
@@ -1082,8 +940,8 @@
     "Gadget2": "CAMERA"
   },
   {
-    "Organization": "JTF2",
-    "Name": "FROST SKOPOS",
+    "Organization": "VIPERSTRIKE",
+    "Name": "FROST",
     "Role": "DEFENDER",
     "Armor": 3,
     "Speed": 1,
@@ -1095,5 +953,6 @@
     "Secondary2": "1911 TACOPS",
     "Gadget1": "BULLETPROOF CAMERA",
     "Gadget2": "IMPACT GRENADE"
+    "Gadget2": "DEPLOYABLE SHIELD"
   }
 ]
