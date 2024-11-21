@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "Organization": "REDHAMMER",
     "Name": "AMARU",
     "Role": "ATTACKER",
@@ -15,6 +16,7 @@
     "Gadget2": "STUN GRENADE"
   },
   {
+    "id": 2,
     "Organization": "REDHAMMER",
     "Name": "GOYO",
     "Role": "DEFENDER",
@@ -30,6 +32,7 @@
     "Gadget2": "NITRO CELL"
   },
   {
+    "id": 3,
     "Organization": "GHOSTEYES",
     "Name": "NOKK",
     "Role": "ATTACKER",
@@ -45,6 +48,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 4,
     "Organization": "GHOSTEYES",
     "Name": "WARDEN",
     "Role": "DEFENDER",
@@ -60,6 +64,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
+    "id": 5,
     "Organization": "GHOSTEYES",
     "Name": "MOZZIE",
     "Role": "DEFENDER",
@@ -75,6 +80,7 @@
     "Gadget2": "NITRO CELL"
   },
   {
+    "id": 6,
     "Organization": "GHOSTEYES",
     "Name": "GRIDLOCK",
     "Role": "ATTACKER",
@@ -90,6 +96,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 7,
     "Organization": "WOLFGUARD",
     "Name": "NOMAD",
     "Role": "ATTACKER",
@@ -105,6 +112,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 8,
     "Organization": "REDHAMMER",
     "Name": "KAID",
     "Role": "DEFENDER",
@@ -120,6 +128,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 9,
     "Organization": "WOLFGUARD",
     "Name": "CLASH",
     "Role": "DEFENDER",
@@ -135,6 +144,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 10,
     "Organization": "GHOSTEYES",
     "Name": "MAVERICK",
     "Role": "ATTACKER",
@@ -150,6 +160,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 11,
     "Organization": "VIPERSTRIKE",
     "Name": "MAESTRO",
     "Role": "DEFENDER",
@@ -165,6 +176,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 12,
     "Organization": "VIPERSTRIKE",
     "Name": "ALIBI",
     "Role": "DEFENDER",
@@ -180,6 +192,7 @@
     "Gadget2": "DEPLOYABLE SHIELD"
   },
   {
+    "id": 13,
     "Organization": "WOLFGUARD",
     "Name": "LION",
     "Role": "ATTACKER",
@@ -195,6 +208,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 14,
     "Organization": "NIGHTHAVEN",
     "Name": "FINKA",
     "Role": "ATTACKER",
@@ -210,6 +224,7 @@
     "Gadget2": "FRAG GRENADE"
   },
   {
+    "id": 15,
     "Organization": "GHOSTEYES",
     "Name": "VIGIL",
     "Role": "DEFENDER",
@@ -225,6 +240,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 16,
     "Organization": "VIPERSTRIKE",
     "Name": "DOKKAEBI",
     "Role": "ATTACKER",
@@ -240,6 +256,7 @@
     "Gadget2": "FRAG GRENADE"
   },
   {
+    "id": 17,
     "Organization": "GHOSTEYES",
     "Name": "MUTE",
     "Role": "DEFENDER",
@@ -255,6 +272,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 18,
     "Organization": "WOLFGUARD",
     "Name": "SLEDGE",
     "Role": "ATTACKER",
@@ -270,6 +288,7 @@
     "Gadget2": "STUN GRENADE"
   },
   {
+    "id": 19,
     "Organization": "GHOSTEYES",
     "Name": "SMOKE",
     "Role": "DEFENDER",
@@ -285,6 +304,7 @@
     "Gadget2": "DEPLOYABLE SHIELD"
   },
   {
+    "id": 20,
     "Organization": "REDHAMMER",
     "Name": "THATCHER",
     "Role": "ATTACKER",
@@ -300,6 +320,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 21,
     "Organization": "REDHAMMER",
     "Name": "ASH",
     "Role": "ATTACKER",
@@ -315,6 +336,7 @@
     "Gadget2": "STUN GRENADE"
   },
   {
+    "id": 22,
     "Organization": "WOLFGUARD",
     "Name": "CASTLE",
     "Role": "DEFENDER",
@@ -330,6 +352,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 23,
     "Organization": "GHOSTEYES",
     "Name": "PULSE",
     "Role": "DEFENDER",
@@ -345,6 +368,7 @@
     "Gadget2": "NITRO CELL"
   },
   {
+    "id": 24,
     "Organization": "REDHAMMER",
     "Name": "THERMITE",
     "Role": "ATTACKER",
@@ -360,6 +384,7 @@
     "Gadget2": "STUN GRENADE"
   },
   {
+    "id": 25,
     "Organization": "WOLFGUARD",
     "Name": "MONTAGNE",
     "Role": "ATTACKER",
@@ -375,6 +400,7 @@
     "Gadget2": "SMOKE GRENADE"
   },
   {
+    "id": 26,
     "Organization": "VIPERSTRIKE",
     "Name": "TWITCH",
     "Role": "ATTACKER",
@@ -390,6 +416,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 27,
     "Organization": "VIPERSTRIKE",
     "Name": "DOC",
     "Role": "DEFENDER",
@@ -405,6 +432,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
+    "id": 28,
     "Organization": "WOLFGUARD",
     "Name": "ROOK",
     "Role": "DEFENDER",
@@ -420,6 +448,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 29,
     "Organization": "GHOSTEYES",
     "Name": "JAGER",
     "Role": "DEFENDER",
@@ -435,6 +464,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
+    "id": 30,
     "Organization": "VIPERSTRIKE",
     "Name": "BANDIT",
     "Role": "DEFENDER",
@@ -450,6 +480,7 @@
     "Gadget2": "NITRO CELL"
   },
   {
+    "id": 31,
     "Organization": "GHOSTEYES",
     "Name": "BLITZ",
     "Role": "ATTACKER",
@@ -465,6 +496,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 32,
     "Organization": "VIPERSTRIKE",
     "Name": "IQ",
     "Role": "ATTACKER",
@@ -478,8 +510,9 @@
     "Secondary2": null,
     "Gadget1": "BREACH CHARGE",
     "Gadget2": "CLAYMORE"
-  },
+   },
    {
+     "id": 33,
     "Organization": "REDHAMMER",
     "Name": "FUZE",
     "Role": "ATTACKER",
@@ -495,6 +528,7 @@
     "Gadget2": "SMOKE GRENADE"
   },
   {
+    "id": 34,
     "Organization": "REDHAMMER",
     "Name": "GLAZ",
     "Role": "ATTACKER",
@@ -510,6 +544,7 @@
     "Gadget2": "FRAG GRENADE"
   },
   {
+    "id": 35,
     "Organization": "REDHAMMER",
     "Name": "TACHANKA",
     "Role": "DEFENDER",
@@ -525,6 +560,7 @@
     "Gadget2": "DEPLOYABLE SHIELD"
   },
   {
+    "id": 36,
     "Organization": "REDHAMMER",
     "Name": "KAPKAN",
     "Role": "DEFENDER",
@@ -540,6 +576,7 @@
     "Gadget2": "NITRO CELL"
   },
   {
+    "id": 37,
     "Organization": "VIPERSTRIKE",
     "Name": "KALI",
     "Role": "ATTACKER",
@@ -555,6 +592,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 38,
     "Organization": "VIPERSTRIKE",
     "Name": "WAMAI",
     "Role": "DEFENDER",
@@ -570,6 +608,7 @@
     "Gadget2": "DEPLOYABLE SHIELD"
   },
   {
+    "id": 39,
     "Organization": "GHOSEYES",
     "Name": "IANA",
     "Role": "ATTACKER",
@@ -585,6 +624,7 @@
     "Gadget2": "SMOKE GRENADE"
   },
   {
+    "id": 40,
     "Organization": "REDHAMMER",
     "Name": "ORYX",
     "Role": "DEFENDER",
@@ -600,6 +640,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 41,
     "Organization": "REDHAMMER",
     "Name": "RAM",
     "Role": "ATTACKER",
@@ -615,6 +656,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 42,
     "Organization": "VIPERSTRIKE",
     "Name": "BRAVA",
     "Role": "ATTACKER",
@@ -630,6 +672,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 43,
     "Organization": "NIGHTHAVEN",
     "Name": "GRIM",
     "Role": "ATTACKER",
@@ -645,6 +688,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 44,
     "Organization": "WOLFGUARD",
     "Name": "SENS",
     "Role": "ATTACKER",
@@ -660,6 +704,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 45,
     "Organization": "NIGHTHAVEN",
     "Name": "OSA",
     "Role": "DEFENDER",
@@ -675,6 +720,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 46,
     "Organization": "GHOSTEYES",
     "Name": "FLORES",
     "Role": "ATTACKER",
@@ -690,6 +736,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 47,
     "Organization": "GHOSTEYES",
     "Name": "ZERO",
     "Role": "ATTACKER",
@@ -705,6 +752,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 48,
     "Organization": "GHOSTEYES",
     "Name": "ZOFIA",
     "Role": "ATTACKER",
@@ -720,6 +768,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 49,
     "Organization": "WOLFGUARD",
     "Name": "YING",
     "Role": "ATTACKER",
@@ -735,6 +784,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 50,
     "Organization": "VIPERSTRIKE",
     "Name": "JACKAL",
     "Role": "ATTACKER",
@@ -750,6 +800,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 51,
     "Organization": "VIPERSTRIKE",
     "Name": "HIBANA",
     "Role": "ATTACKER",
@@ -765,6 +816,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 52,
     "Organization": "REDHAMMER",
     "Name": "THORN",
     "Role": "DEFENDER",
@@ -779,6 +831,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 53,
     "Organization": "REDHAMMER",
     "Name": "SOLIS",
     "Role": "ATTACKER",
@@ -793,6 +846,7 @@
     "Gadget2": "BREACH CHARGE"
   },
   {
+    "id": 54,
     "Organization": "GHOSTEYES",
     "Name": "CAVEIRA",
     "Role": "DEFENDER",
@@ -807,6 +861,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 55,
     "Organization": "WOLFGUARD",
     "Name": "AZAMI",
     "Role": "DEFENDER",
@@ -821,6 +876,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 56,
     "Organization": "WOLFGUARD",
     "Name": "THUNDERBIRD",
     "Role": "DEFENDER",
@@ -835,6 +891,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
+    "id": 57,
     "Organization": "REDHAMMER",
     "Name": "ARUNI",
     "Role": "DEFENDER",
@@ -850,6 +907,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 58,
     "Organization": "WOLFGUARD",
     "Name": "MELUSI",
     "Role": "DEFENDER",
@@ -865,6 +923,7 @@
     "Gadget2": "CLAYMORE"
   },
   {
+    "id": 59,
     "Organization": "NIGHTHAVEN",
     "Name": "ELA",
     "Role": "DEFENDER",
@@ -880,6 +939,7 @@
     "Gadget2": "BARRICADE"
   },
   {
+    "id": 60,
     "Organization": "GHOSTEYES",
     "Name": "LESION",
     "Role": "DEFENDER",
@@ -895,6 +955,7 @@
     "Gadget2": "BULLETPROOF CAMERA"
   },
   {
+    "id": 61,
     "Organization": "VIPERSTRIKE",
     "Name": "MIRA",
     "Role": "DEFENDER",
@@ -910,6 +971,7 @@
     "Gadget2": "IMPACT GRENADE"
   },
   {
+    "id": 62,
     "Organization": "VIPERSTRIKE",
     "Name": "ECHO",
     "Role": "DEFENDER",
@@ -925,6 +987,7 @@
     "Gadget2": "BARBED WIRE"
   },
   {
+    "id": 63,
     "Organization": "GHOSTEYES",
     "Name": "VALKYRIE",
     "Role": "DEFENDER",
@@ -940,6 +1003,7 @@
     "Gadget2": "CAMERA"
   },
   {
+    "id": 64,
     "Organization": "VIPERSTRIKE",
     "Name": "FROST",
     "Role": "DEFENDER",
